@@ -1,7 +1,19 @@
 .logo {
-  width: 100px; /* Lebar gambar */
-  margin-right: 15px;
-  margin-left: 15px;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  width: 100px;
+}
+
+.lokasi {
+  width: 30px;
+}
+
+.hp {
+  width: 30px;
+}
+
+.email {
+  width: 50px;
+}
+
+.logo1 {
+  width: 65px;
 }
